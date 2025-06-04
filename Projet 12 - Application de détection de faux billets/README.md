@@ -27,19 +27,25 @@ Dans le cadre d’une mission de Data Analyst pour l'ONCFM (Organisation nationa
 ## 📈 Étapes du projet  
 - Chargement et exploration des données  
 - Visualisation et compréhension des variables
+<p align="center"><em>Analyses des variables et des distributions</em><br/><img src="images/12-analyses-variables.png" alt="Analyses des variables" width="450"/></p>
+
 - Réalisation d'une régression linéaire pour combler les valeurs manquantes
 - Sélection des variables prédictives
+<p align="center"><img src="images/12-selection-variables-predictives.png" alt="Sélection des variables prédictives" width="500"/></p>
+
 - Réalisation d'une régression logistique
 - Modélisation non supervisée : K-means
+<p align="center"><em>Projections des clusters Kmeans via ACP</em><br/><img src="images/12-projection-kmeans.jpg" alt="Projections clusters Kmeans" width="500"/></p>
+
 - Modélisation KNN
+<p align="center"><img src="images/12-variations-knn.png" alt="Variation de K modèle KNN" width="450"/></p>
+
 - Modélisation Random Forest
 - Optimisation par GridSearchCV
 - Évaluation des performances (accuracy, AUC, courbe ROC)  
 - Comparaison des modèles
+<p align="center"><img src="images/12-comparaisons-modeles.jpg" alt="Comparaison des modèles" width="500"/></p>
+
 - Exportation du modèle sélectionné (KNN)
 - Création d'une interface interactive pour tester de nouveaux billets
-
-
-<img src="[images/roc_curve.png](https://mon-site.com/images/mon_graphique.png](https://data.riverphot.com/wp-content/uploads/2025/06/12-analyses-variables.png)" alt="Courbe ROC" width="600"/>
-
-
+<p align="center"><img src="images/12-application.jpg" alt="Application de détection" width="600"/></p>
